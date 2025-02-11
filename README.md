@@ -70,6 +70,9 @@ Ensure you have the following installed:
 ## Contributing
 Contributions are welcome! Please submit issues and pull requests via [GitHub](https://github.com/Agarwalchetan/blood-camp).
 
+## Live Demo
+View the live webpage at [Blood Camp Management System](https://zesty-puppy-bfd232.netlify.app/)
+
 ## License
 This project is licensed under the MIT License.
 
