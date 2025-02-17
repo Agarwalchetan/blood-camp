@@ -83,8 +83,8 @@ export function Home() {
                 key={bank}
                 className="group bg-white rounded-2xl p-8 hover:shadow-2xl transform hover:-translate-y-2 transition-all duration-300"
               >
-                <h3 className="text-2xl font-bold mb-4">City Blood Bank {bank}</h3>
-                <p className="text-gray-600 mb-6">123 Medical Center Drive</p>
+                <h3 className="text-2xl font-bold mb-4">Blood Bank A{bank}</h3>
+                <p className="text-gray-600 mb-6">Rohini,Delhi</p>
                 <div className="flex justify-between items-center">
                   <span className="px-4 py-1 bg-green-100 text-green-800 rounded-full text-sm font-medium">
                     Open Now
